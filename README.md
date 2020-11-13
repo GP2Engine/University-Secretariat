@@ -1,6 +1,6 @@
 # University-Secretariat
 
-A simple Windows Form application, written in C#, that emulates some basic functions of a University's Secretariat. 
+A simple Windows Form application, written in C# in collaboration with [billz96](https://github.com/billz96), that emulates some basic functions of a University's Secretariat. 
 Such as:
 
 * Add/Remove/Update student entries
