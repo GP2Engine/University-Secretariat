@@ -6,6 +6,7 @@ Such as:
 * Add/Remove/Update student entries
 * Add/Remove/Update student score entries
 * Add/Remove/Update course entries
+* Search Student/Course/Score entries
 * Student Login/Register
 * Teacher Login/Register
 * Edit Account Information
